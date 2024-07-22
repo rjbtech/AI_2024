@@ -1,1 +1,1 @@
-test connection added - Successful
+Test Connection with Github is Successful!
